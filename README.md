@@ -20,7 +20,7 @@ I’ve uploaded the files for everything I’ve completed so far. There’s a fu
 
 **How to use the files**
 1. Download Obsidian (recommended, but not required).
-2. Download the zipped folder and extract it.
+2. Download the zipped folder and extract it. (There is a second zipped folder inside titled "In Space with Markiplier", you need to extract that before you can view the episdoes)
 3. Open Obsidian → Open folder as vault → select the extracted folder.
 4. Open the Welcome Card and start from there.
 
